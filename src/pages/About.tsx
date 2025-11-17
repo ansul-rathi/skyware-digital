@@ -158,7 +158,7 @@ export default function About({ onNavigate }: AboutProps) {
               </div>
               <div className="p-6 text-center">
                 <h3 className="text-2xl font-bold text-gray-900 mb-2">Sameer Nowal</h3>
-                <p className="text-emerald-600 font-semibold mb-4">Director</p>
+                <p className="text-emerald-600 font-semibold mb-4">Manager</p>
                 <p className="text-gray-600 mb-4">
                   With over 15 years of experience in IT consulting and digital transformation,
                   Sameer leads SKYWARE DIGITAL with a vision to deliver innovative technology
